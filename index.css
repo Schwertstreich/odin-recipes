@@ -34,6 +34,19 @@ div {
     background-color: bisque;
 }
 
-h1, a {
-    color: lightcoral
+a {
+    color: rgb(165, 42, 110);
+    font-size: 2rem;
 }
+
+.recipe_titles {
+    color: rgb(196, 127, 127);
+    text-decoration: underline;
+    background-color: black;
+    
+}
+
+footer {
+    background-color: beige;
+}
+
